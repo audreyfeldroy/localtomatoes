@@ -9,7 +9,7 @@ You can contribute in many ways:
 
 ### Report Bugs
 
-Report bugs at <https://github.com/>audreyr/localtomatoes/issues.
+Report bugs at https://github.com/audreyr/localtomatoes/issues.
 
 If you are reporting a bug, please include:
 
@@ -37,7 +37,7 @@ in docstrings, or even on the web in blog posts, articles, and such.
 ### Submit Feedback
 
 The best way to send feedback is to file an issue at
-<https://github.com/>audreyr/localtomatoes/issues.
+https://github.com/audreyr/localtomatoes/issues.
 
 If you are proposing a feature:
 
@@ -86,5 +86,5 @@ Before you submit a pull request, check that it meets these guidelines:
     Put your new functionality into a function with a docstring, and add
     the feature to the list in README.rst.
 3.  The pull request should work for Python 2.6, 2.7, and 3.3, and for
-    PyPy. Check <https://travis-ci.org/>audreyr/localtomatoes/pulls and make sure that
+    PyPy. Check https://travis-ci.org/audreyr/localtomatoes/pulls and make sure that
     the tests pass for all supported Python versions.

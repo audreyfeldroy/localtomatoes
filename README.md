@@ -7,7 +7,7 @@
 
 ## Overview
 
-LocalTomatoes displays the Rotten Tomatoes ratings for yourr local theater movies.
+LocalTomatoes displays the Rotten Tomatoes ratings for the movies at your local theater.
 
 * features
 * and stuff 
